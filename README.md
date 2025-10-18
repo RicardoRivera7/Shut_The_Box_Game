@@ -14,7 +14,8 @@ The LOWER THE SCORE THE BETTER!!! Best Score=0 & Lowest Score=45
 
 You have 3 tries then it's game over...if you cannot proceed any further then just input 3 mistakes and it's game over!!!
 
-'''
+
+```
 import java.util.*;
 import java.io.*;
 import java.util.Random;
